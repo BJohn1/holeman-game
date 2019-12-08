@@ -24,6 +24,12 @@ header {
   text-align: center;
 }
 
+h3 {
+  color: grey;
+  text-align: center;
+  margin: 1.5rem 0 0 0;
+}
+
 h2 {
   font-size: 2rem;
   color: grey;
